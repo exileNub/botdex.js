@@ -1,0 +1,16 @@
+{
+  "name": "Bot",
+  "version": "0.1.1",
+  "description": "Bot for Discord app",
+    "main": "index.js",
+  "maintainers": [],
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chalda/DiscordBot.git"
+  },
+  "dependencies": {
+    "discord.js": "11.1.x",
+    "request": "^2.83.0"
+  }
+}
